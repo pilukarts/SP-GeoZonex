@@ -1,0 +1,9 @@
+
+Ejemplo de `systems/orbs.json`:
+```json
+[
+  {"id":"raida","color":"#D3163A","role":"offense","levels":["Awaken","Harmony","Mastery"]},
+  {"id":"thalene","color":"#15A1FF","role":"support","levels":["Awaken","Harmony","Mastery"]},
+  {"id":"xyron","color":"#FF8A2B","role":"defense","levels":["Awaken","Harmony","Mastery"]},
+  {"id":"vedra","color":"#19C37D","role":"tactics","levels":["Awaken","Harmony","Mastery"]}
+]
