@@ -33,6 +33,3 @@ Este sistema puede expandirse con:
 
 ---
 
-¿Quieres que lo empaquetemos en una carpeta `systems/orbs/planetary-orbs.md` y lo documentemos como módulo oficial del lore? También podemos vincularlo al arco narrativo de Super Piluka para mostrar cómo ella descubre su afinidad con un orbe único tipo "Catalyst". ✨🔥
-
-Déjame saber si quieres que añadamos secciones para _sprites_, _nivel técnico_, o _relaciones entre orbes y tribus_. Todo está listo para que florezca como sistema central.
